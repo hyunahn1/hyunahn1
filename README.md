@@ -3,18 +3,92 @@
 
 ```
 
----
-
-### 안녕하세요
-
-저는 **현준**입니다. 코드로 이야기하는 개발자입니다.
-
-매일 새로운 것을 배우고, 더 나은 솔루션을 찾아가는 과정을 즐깁니다.
+<div align="center">
+<sub>Developer • Learner • Builder</sub>
+</div>
 
 ---
 
-### 최근 활동
+## 📖 Blog
 
+### Latest Posts
+
+<details>
+<summary>📝 2025.01.20 - GitHub 프로필을 포트폴리오로 만들기</summary>
+
+> GitHub README를 활용해 자동화된 포트폴리오를 만드는 여정을 기록했습니다.
+
+**주요 내용:**
+- GitHub Actions를 활용한 자동화
+- 미니멀한 디자인 철학
+- 개발자스러운 표현 방법
+
+**사용한 기술:** `GitHub Actions` `Markdown` `YAML`
+
+---
+*"First, solve the problem. Then, write the code."*
+
+</details>
+
+<details>
+<summary>🔧 2025.01.19 - 클린 코드를 위한 개인 규칙</summary>
+
+> 더 읽기 쉽고 유지보수하기 좋은 코드를 작성하기 위한 나만의 가이드라인
+
+**주요 내용:**
+- 함수는 한 가지 일만 하기
+- 의미있는 변수명 사용하기
+- 주석보다는 코드로 설명하기
+
+**배운 점:** 코드는 컴퓨터가 아닌 사람이 읽는 것
+
+</details>
+
+<details>
+<summary>💡 2025.01.18 - 새로운 기술 스택 도전기</summary>
+
+> TypeScript에서 Rust로의 전환을 고민하며 작성한 학습 노트
+
+**주요 내용:**
+- 메모리 안전성의 중요성
+- 성능과 개발자 경험의 균형
+- 점진적 마이그레이션 전략
+
+**상태:** 학습 진행중 📚
+
+</details>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+| Frontend | Backend | Database | DevOps |
+|----------|---------|----------|--------|
+| React | Node.js | PostgreSQL | Docker |
+| TypeScript | Express | MongoDB | AWS |
+| Next.js | Django | Redis | Kubernetes |
+
+</div>
+
+```javascript
+const currentFocus = {
+    learning: ['Rust', 'WebAssembly', 'System Design'],
+    building: ['CLI Tools', 'Web Apps', 'Open Source'],
+    reading: ['Clean Architecture', 'System Design Interview'],
+    goal: 'Building better software, one commit at a time'
+}
+```
+
+---
+
+## 📊 Development Activity
+
+### Recent Commits
 <!--START_SECTION:activity-->
 ```
 🤖 GitHub Actions 실행 대기중...
@@ -22,137 +96,131 @@
 ```
 <!--END_SECTION:activity-->
 
----
-
-### 기술
-
-```javascript
-const stack = {
-    languages: ['Python', 'JavaScript', 'TypeScript', 'Java'],
-    frontend: ['React', 'Next.js', 'Vue.js'],
-    backend: ['Node.js', 'Express', 'Django'],
-    database: ['PostgreSQL', 'MongoDB', 'Redis'],
-    cloud: ['AWS', 'Docker', 'Kubernetes'],
-    current: '새로운 기술 스택 탐구중...'
-}
-```
-
+### Weekly Stats
 <details>
-<summary>기술 배지 보기</summary>
-
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js&logoColor=339933)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker&logoColor=2496ED)
-
-</details>
-
-<details>
-<summary>📊 이번 주 코딩 시간</summary>
+<summary>📈 This Week's Progress</summary>
 
 <!--START_SECTION:waka-->
+```
+⏱️  개발 시간: 32시간 15분
+📝  커밋: 24개  
+🌟  별표: 3개
+🔥  연속 일수: 7일
+```
 <!--END_SECTION:waka-->
 
 </details>
 
 ---
 
-### 프로젝트
+## 🎯 Current Projects
 
-#### > [프로젝트명_01]()
-웹 애플리케이션 | React, Node.js, MongoDB  
-사용자 경험에 집중한 풀스택 프로젝트
+### 🚀 Active
 
-#### > [프로젝트명_02]()  
-데이터 분석 플랫폼 | Python, Django, PostgreSQL  
-대용량 데이터 처리와 시각화
+<table>
+<tr>
+<td width="50%">
 
-#### > [프로젝트명_03]()
-오픈소스 기여 | JavaScript  
-커뮤니티와 함께 성장하는 프로젝트
+**Project Alpha**
+> 개인 생산성 향상을 위한 CLI 도구
 
+- **Tech**: Rust, Clap
+- **Status**: 개발중 ⚡
+- **Progress**: 60%
+
+[→ Repository](#)
+
+</td>
+<td width="50%">
+
+**Portfolio Website**
+> Next.js 기반 개인 포트폴리오
+
+- **Tech**: Next.js, TypeScript
+- **Status**: 디자인 단계 🎨
+- **Progress**: 30%
+
+[→ Live Demo](#)
+
+</td>
+</tr>
+</table>
+
+### 📋 Planning
+
+- **오픈소스 기여**: React 생태계 프로젝트
+- **학습 프로젝트**: Rust로 웹 서버 만들기
+- **사이드 프로젝트**: 개발자를 위한 유틸리티 앱
+
+---
+
+## 💭 Development Philosophy
+
+> *"Write code like the person who ends up maintaining it is a violent psychopath who knows where you live."*
+
+### Core Principles
+
+- **단순함이 최고**: 복잡한 것보다 간단하고 명확한 해결책
+- **점진적 개선**: 한 번에 완벽하려 하지 말고 조금씩 나아가기
+- **배움의 자세**: 모르는 것을 인정하고 끊임없이 학습하기
+- **협업 중시**: 혼자서는 큰 일을 할 수 없다는 마음가짐
+
+---
+
+## 📚 Learning Journey
+
+### 2025 Goals
+```
+□ Rust 마스터하기
+□ 시스템 설계 심화 학습  
+□ 오픈소스 기여 50+ commits
+□ 기술 블로그 월 2회 포스팅
+□ 새로운 도메인 도전 (AI/ML)
+```
+
+### Knowledge Base
 <details>
-<summary>더 많은 프로젝트</summary>
+<summary>🧠 개념 정리 노트</summary>
 
-#### > [프로젝트명_04]()
-CLI 도구 | Go  
-개발자 생산성 향상을 위한 도구
+#### System Design
+- Microservices vs Monolith
+- Database Sharding 전략
+- 캐싱 레이어 설계
 
-#### > [프로젝트명_05]()
-모바일 앱 | React Native  
-크로스 플랫폼 애플리케이션
+#### Architecture Patterns
+- Clean Architecture
+- Event-Driven Architecture  
+- CQRS 패턴
+
+#### Performance
+- 메모리 최적화 기법
+- 데이터베이스 인덱싱
+- 프론트엔드 성능 튜닝
 
 </details>
 
 ---
 
-### 현재
-
-- 클린 코드와 아키텍처 설계에 집중
-- 오픈소스 프로젝트 기여 활동
-- 새로운 기술 스택 학습과 적용
-
-```
-📍 현재 작업중: TypeScript 마이그레이션
-📚 학습중: Rust, WebAssembly
-🎯 목표: 더 나은 개발자 되기
-```
-
----
-
-### 코드 스니펫
-
-<details>
-<summary>오늘의 코드</summary>
-
-```python
-# 깔끔한 코드를 작성하는 방법
-def write_clean_code():
-    """Simple is better than complex"""
-    return "readable" > "clever"
-```
-
-</details>
-
----
-
-### 통계
-
-<details>
-<summary>GitHub 활동 보기</summary>
-<br>
-
-<!-- 실제 GitHub 통계 -->
-![](https://github-readme-stats.vercel.app/api?username=hyunahn1&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true&hide=contribs&line_height=20&text_color=333&icon_color=333)
-
-<!-- 언어 사용 통계 -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunahn1&layout=compact&hide_border=true&theme=default&hide_title=true&langs_count=6&text_color=333)
-
-<!-- 활동 그래프 (미니멀 버전) -->
-![](https://github-readme-activity-graph.vercel.app/graph?username=hyunahn1&theme=minimal&hide_border=true&line=333333&point=333333&area_color=e0e0e0&color=333333&height=200)
-
-</details>
-
-<!-- 프로필 조회수 (아주 작게) -->
-<sub>![](https://komarev.com/ghpvc/?username=hyunahn1&color=lightgray&style=flat&label=views)</sub>
-
----
-
-### 연락
+## 🤝 Let's Connect
 
 ```bash
-$ echo "contact@example.com" | mail -s "Hello!"
+$ whoami
+> 문제를 해결하는 것을 좋아하는 개발자
+
+$ cat contact.txt
+> email: your.email@gmail.com
+> blog: https://your-blog.com  
+> linkedin: https://linkedin.com/in/your-profile
+
+$ echo "Always open to interesting conversations!"
 ```
 
-[이메일](mailto:your.email@gmail.com) · [블로그](https://your-blog.com) · [링크드인](https://linkedin.com/in/your-profile)
-
 ---
 
-### 랜덤 개발 명언
+<div align="center">
 
-> "First, solve the problem. Then, write the code." - John Johnson
+![Profile Views](https://komarev.com/ghpvc/?username=hyunahn1&color=lightgray&style=flat&label=visitors)
 
----
+<sub>Last updated: 2025.01 • Built with ❤️ and lots of ☕</sub>
 
-<sub>마지막 업데이트: 2025.01</sub> 
+</div> 

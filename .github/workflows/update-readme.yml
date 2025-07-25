@@ -11,14 +11,15 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    name: Update README with recent activity
+    name: Update README with recent activity and blog posts
     
     steps:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           
-      - name: Update README
+      # 최근 GitHub 활동 업데이트
+      - name: Update recent activity
         uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -26,4 +27,14 @@ jobs:
           COMMIT_MSG: '⚡ Update recent activity'
           MAX_LINES: 5
           COMMIT_NAME: 'readme-bot'
-          COMMIT_EMAIL: 'actions@github.com' 
+          COMMIT_EMAIL: 'actions@github.com'
+          
+      # 블로그 포스트 자동 업데이트 (RSS Feed 필요)
+      - name: Update blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BLOG-POST-LIST"
+          feed_list: "https://your-blog.com/rss.xml"
+          max_post_count: 5
+          commit_message: "📝 Update blog posts"
+          user_agent: "Mozilla/5.0 (compatible; BlogBot/1.0)" 
