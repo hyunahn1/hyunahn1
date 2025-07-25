@@ -6,7 +6,7 @@
 ```
 
 <div align="center">
-<sub>Developer • Learner • Builder</sub>
+<sub>Cloud Security • Blockchain Enthusiast • System Explorer</sub>
 </div>
 
 ---
@@ -16,16 +16,16 @@
 ### Latest Posts
 
 <details>
-<summary>📝 2025.01.20 - GitHub 프로필을 포트폴리오로 만들기</summary>
+<summary>📝 2025.01.20 - Building GitHub Profile as Portfolio</summary>
 
-> GitHub README를 활용해 자동화된 포트폴리오를 만드는 여정을 기록했습니다.
+> Documenting the journey of creating an automated portfolio using GitHub README.
 
-**주요 내용:**
-- GitHub Actions를 활용한 자동화
-- 미니멀한 디자인 철학
-- 개발자스러운 표현 방법
+**Key Topics:**
+- GitHub Actions automation
+- Minimalist design philosophy  
+- Developer-centric expression methods
 
-**사용한 기술:** `GitHub Actions` `Markdown` `YAML`
+**Tech Used:** `GitHub Actions` `Markdown` `YAML`
 
 ---
 *"First, solve the problem. Then, write the code."*
@@ -33,30 +33,30 @@
 </details>
 
 <details>
-<summary>🔧 2025.01.19 - 클린 코드를 위한 개인 규칙</summary>
+<summary>🔧 2025.01.19 - Personal Rules for Clean Code</summary>
 
-> 더 읽기 쉽고 유지보수하기 좋은 코드를 작성하기 위한 나만의 가이드라인
+> My personal guidelines for writing more readable and maintainable code
 
-**주요 내용:**
-- 함수는 한 가지 일만 하기
-- 의미있는 변수명 사용하기
-- 주석보다는 코드로 설명하기
+**Key Topics:**
+- Functions should do one thing
+- Use meaningful variable names
+- Let code explain itself, not comments
 
-**배운 점:** 코드는 컴퓨터가 아닌 사람이 읽는 것
+**Lesson Learned:** Code is written for humans, not computers
 
 </details>
 
 <details>
-<summary>💡 2025.01.18 - 새로운 기술 스택 도전기</summary>
+<summary>💡 2025.01.18 - Exploring New Tech Stack</summary>
 
-> TypeScript에서 Rust로의 전환을 고민하며 작성한 학습 노트
+> Learning notes while considering transition from TypeScript to Rust
 
-**주요 내용:**
-- 메모리 안전성의 중요성
-- 성능과 개발자 경험의 균형
-- 점진적 마이그레이션 전략
+**Key Topics:**
+- Importance of memory safety
+- Balance between performance and developer experience
+- Progressive migration strategies
 
-**상태:** 학습 진행중 📚
+**Status:** Learning in progress 📚
 
 </details>
 
@@ -69,20 +69,22 @@
 
 <div align="center">
 
-| Frontend | Backend | Database | DevOps |
-|----------|---------|----------|--------|
-| React | Node.js | PostgreSQL | Docker |
-| TypeScript | Express | MongoDB | AWS |
-| Next.js | Django | Redis | Kubernetes |
+| Systems & Core | Cloud & Security | Blockchain & Web | Languages |
+|----------------|------------------|------------------|-----------|
+| C/C++ | AWS Cloud | Solidity | 🇫🇷 French (Beginner) |
+| Linux | Network Security | React | 🇺🇸 English (Intermediate) |
+| Virtual Machines | Dreamhack Platform | JavaScript/CSS | 🇰🇷 Korean (Native) |
+| OS & Architecture | Cybersecurity | Node.js | |
 
 </div>
 
 ```javascript
 const currentFocus = {
-    learning: ['Rust', 'WebAssembly', 'System Design'],
-    building: ['CLI Tools', 'Web Apps', 'Open Source'],
-    reading: ['Clean Architecture', 'System Design Interview'],
-    goal: 'Building better software, one commit at a time'
+    interests: ['Cloud Computing', 'Cybersecurity', 'Blockchain'],
+    mastering: ['C/C++', 'Linux', 'Computer Architecture', 'Networks'],
+    learning: ['AWS', 'Solidity', 'React', 'Django', 'Flask'],
+    studying: ['Security via Dreamhack', 'French Language'],
+    goal: 'Building secure, scalable systems in the cloud era'
 }
 ```
 
@@ -123,26 +125,26 @@ const currentFocus = {
 <tr>
 <td width="50%">
 
-**Project Alpha**
-> 개인 생산성 향상을 위한 CLI 도구
+**AWS Cloud Lab**
+> Infrastructure automation and cloud security exploration
 
-- **Tech**: Rust, Clap
-- **Status**: 개발중 ⚡
-- **Progress**: 60%
+- **Tech**: AWS, Linux, Bash
+- **Status**: Experimenting ⚡
+- **Focus**: IAM, VPC, EC2 Security
 
 [→ Repository](#)
 
 </td>
 <td width="50%">
 
-**Portfolio Website**
-> Next.js 기반 개인 포트폴리오
+**Dreamhack CTF Journey**
+> Hands-on cybersecurity challenge solving
 
-- **Tech**: Next.js, TypeScript
-- **Status**: 디자인 단계 🎨
-- **Progress**: 30%
+- **Tech**: C, Python, Linux
+- **Status**: Active Learning 🔥
+- **Focus**: Web/Pwn/Reversing
 
-[→ Live Demo](#)
+[→ Progress Log](#)
 
 </td>
 </tr>
@@ -150,22 +152,23 @@ const currentFocus = {
 
 ### 📋 Planning
 
-- **오픈소스 기여**: React 생태계 프로젝트
-- **학습 프로젝트**: Rust로 웹 서버 만들기
-- **사이드 프로젝트**: 개발자를 위한 유틸리티 앱
+- **Blockchain DApp**: Building first Solidity smart contract
+- **Network Security Tool**: C++ based network analyzer
+- **React Security Dashboard**: Frontend for security monitoring
+- **French Learning App**: Personal language learning tracker
 
 ---
 
 ## 💭 Development Philosophy
 
-> *"Write code like the person who ends up maintaining it is a violent psychopath who knows where you live."*
+> *"Security is not a product, but a process. Privacy is not a luxury, but a necessity."*
 
 ### Core Principles
 
-- **단순함이 최고**: 복잡한 것보다 간단하고 명확한 해결책
-- **점진적 개선**: 한 번에 완벽하려 하지 말고 조금씩 나아가기
-- **배움의 자세**: 모르는 것을 인정하고 끊임없이 학습하기
-- **협업 중시**: 혼자서는 큰 일을 할 수 없다는 마음가짐
+- **Security First**: Always consider security implications from the design phase
+- **Systems Thinking**: Understanding how components interact in complex systems
+- **Continuous Learning**: Technology evolves rapidly, stay curious and adaptable
+- **Community Driven**: Contributing to open source and learning from others
 
 ---
 
@@ -173,31 +176,41 @@ const currentFocus = {
 
 ### 2025 Goals
 ```
-□ Rust 마스터하기
-□ 시스템 설계 심화 학습  
-□ 오픈소스 기여 50+ commits
-□ 기술 블로그 월 2회 포스팅
-□ 새로운 도메인 도전 (AI/ML)
+□ AWS Solutions Architect Certification
+□ Advanced C++ System Programming
+□ Complete 100+ Dreamhack Challenges
+□ Build Production-Ready Blockchain DApp
+□ French Conversational Level (A2)
 ```
 
 ### Knowledge Base
 <details>
-<summary>🧠 개념 정리 노트</summary>
+<summary>🧠 Study Notes & Resources</summary>
 
-#### System Design
-- Microservices vs Monolith
-- Database Sharding 전략
-- 캐싱 레이어 설계
+#### Cloud & Infrastructure
+- [AWS Cloud Practitioner Journey](https://github.com/hyunahn1/aws-cloud-study)
+- [Linux System Administration](https://github.com/hyunahn1/linux-mastery)
+- [Virtual Machine Labs](https://github.com/hyunahn1/vm-playground)
 
-#### Architecture Patterns
-- Clean Architecture
-- Event-Driven Architecture  
-- CQRS 패턴
+#### Security & Networks  
+- [Dreamhack CTF Solutions](https://github.com/hyunahn1/dreamhack-ctf)
+- [Network Security Fundamentals](https://github.com/hyunahn1/network-security)
+- [Cybersecurity Study Notes](https://github.com/hyunahn1/security-notes)
 
-#### Performance
-- 메모리 최적화 기법
-- 데이터베이스 인덱싱
-- 프론트엔드 성능 튜닝
+#### Blockchain Development
+- [Solidity Smart Contracts](https://github.com/hyunahn1/solidity-practice)
+- [Blockchain Fundamentals](https://github.com/hyunahn1/blockchain-study)
+- [DeFi Protocols Analysis](https://github.com/hyunahn1/defi-research)
+
+#### System Programming
+- [C/C++ Advanced Concepts](https://github.com/hyunahn1/cpp-advanced)
+- [Operating System Projects](https://github.com/hyunahn1/os-projects)
+- [Computer Architecture Labs](https://github.com/hyunahn1/computer-architecture)
+
+#### Web Development
+- [React Frontend Projects](https://github.com/hyunahn1/react-projects)
+- [Node.js Backend APIs](https://github.com/hyunahn1/nodejs-apis)
+- [Full-Stack Web Apps](https://github.com/hyunahn1/fullstack-projects)
 
 </details>
 
@@ -207,14 +220,13 @@ const currentFocus = {
 
 ```bash
 $ whoami
-> 문제를 해결하는 것을 좋아하는 개발자
+> Cloud Security enthusiast exploring the intersection of systems and blockchain
 
-$ cat contact.txt
-> email: your.email@gmail.com
-> blog: https://your-blog.com  
-> linkedin: https://linkedin.com/in/your-profile
+$ cat interests.txt
+> aws cloud security, blockchain development, system programming
+> currently solving CTF challenges and building secure applications
 
-$ echo "Always open to interesting conversations!"
+$ echo "Always excited to discuss cybersecurity and emerging tech!"
 ```
 
 ---
