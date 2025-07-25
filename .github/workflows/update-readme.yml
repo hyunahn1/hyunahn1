@@ -2,10 +2,8 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-  push:
-    branches: [ main ]
+    - cron: '0 0 * * *'  # 매일 자정에만 실행
+  workflow_dispatch:  # 수동 실행만 가능
 
 jobs:
   update-readme:

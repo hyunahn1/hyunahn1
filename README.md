@@ -91,25 +91,25 @@ const currentFocus = {
 ## 📊 Development Activity
 
 ### Recent Commits
-<!--START_SECTION:activity-->
 ```
-🤖 GitHub Actions 실행 대기중...
-   자동화 설정 완료 후 실제 활동이 표시됩니다.
+⚡ Recent Activity 
+• 🔧 Simplify workflow for better compatibility
+• 🔧 Fix markdown rendering issue  
+• 📝 Transform profile into blog-style homepage
+• 🚀 Setup awesome GitHub profile with automation
+• ✨ Initial commit: Awesome profile setup
 ```
-<!--END_SECTION:activity-->
 
 ### Weekly Stats
 <details>
 <summary>📈 This Week's Progress</summary>
 
-<!--START_SECTION:waka-->
 ```
 ⏱️  개발 시간: 32시간 15분
 📝  커밋: 24개  
 🌟  별표: 3개
 🔥  연속 일수: 7일
 ```
-<!--END_SECTION:waka-->
 
 </details>
 
