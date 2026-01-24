@@ -4,7 +4,7 @@
 
 **From Deciphering the Past to Coding the Future of Mobility**
 
-<img src="https://placehold.co/1200x300?text=History+%E2%86%92+Mobility+Engineering" alt="banner" />
+<img src="https://placehold.co/1200x300/000000/FFFFFF?text=History+%E2%86%92+Mobility+Engineering" alt="banner" />
 
 <sub>Aspiring Automotive Software Engineer bridging the gap between Hardware and Software</sub>
 
