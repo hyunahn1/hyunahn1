@@ -60,8 +60,8 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hyunahn1&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunahn1&layout=compact)
 
 </div>
 
