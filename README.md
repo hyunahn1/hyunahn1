@@ -6,7 +6,7 @@
 
 <img src="https://placehold.co/1200x300/000000/FFFFFF?text=History+%E2%86%92+Mobility+Engineering" alt="banner" />
 
-<sub>Aspiring Automotive Software Engineer bridging the gap between Hardware and Software</sub>
+<sub>Designing the software nervous system of mobility</sub>
 
 </div>
 
@@ -56,7 +56,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
