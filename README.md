@@ -1,240 +1,74 @@
-# HYUNAHN1
-
-```
-█▄█ █▄█ █░█ █▄░█ ▄▀█ █░█ █▄░█
-█▀█  █  █▄█ █░▀█ █▀█ █▀█ █░▀█
-```
+# Your Name
 
 <div align="center">
-<sub>Cloud Security • Blockchain Enthusiast • System Explorer</sub>
+
+**From Deciphering the Past to Coding the Future of Mobility**
+
+<img src="https://placehold.co/1200x300?text=History+%E2%86%92+Mobility+Engineering" alt="banner" />
+
+<sub>Aspiring Automotive Software Engineer bridging the gap between Hardware and Software</sub>
+
 </div>
 
 ---
 
-## 📖 Blog
+## 👋 About Me
 
-### Latest Posts
-
-<details>
-<summary>📝 2025.01.20 - Building GitHub Profile as Portfolio</summary>
-
-> Documenting the journey of creating an automated portfolio using GitHub README.
-
-**Key Topics:**
-- GitHub Actions automation
-- Minimalist design philosophy  
-- Developer-centric expression methods
-
-**Tech Used:** `GitHub Actions` `Markdown` `YAML`
-
----
-*"First, solve the problem. Then, write the code."*
-
-</details>
-
-<details>
-<summary>🔧 2025.01.19 - Personal Rules for Clean Code</summary>
-
-> My personal guidelines for writing more readable and maintainable code
-
-**Key Topics:**
-- Functions should do one thing
-- Use meaningful variable names
-- Let code explain itself, not comments
-
-**Lesson Learned:** Code is written for humans, not computers
-
-</details>
-
-<details>
-<summary>💡 2025.01.18 - Exploring New Tech Stack</summary>
-
-> Learning notes while considering transition from TypeScript to Rust
-
-**Key Topics:**
-- Importance of memory safety
-- Balance between performance and developer experience
-- Progressive migration strategies
-
-**Status:** Learning in progress 📚
-
-</details>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+> What do History and Software Engineering have in common? They both require deep analysis, logical connections, and the ability to find patterns in chaos.  
+> I started as a Historian (co-authored 2 ISBN-registered books), but I pivoted to tech because I realized software is the tool to drive the future.  
+> My passion for "How Things Work" deepened at **42 Gyeongsan** through Linux Kernel system programming. Now, I am at **42 Wolfsburg**, specializing in Embedded Systems and Autonomous Driving.
 
 ---
 
 ## 🛠 Tech Stack
 
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Tools & Systems**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kernel](https://img.shields.io/badge/Linux_Kernel-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Interests**
+
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-2C3E50?style=for-the-badge)
+![Autonomous Driving](https://img.shields.io/badge/Autonomous%20Driving-34495E?style=for-the-badge)
+![Mobility](https://img.shields.io/badge/Mobility-1F618D?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-4B0082?style=for-the-badge)
+
+---
+
+## 🧭 My Journey
+
+- **42 Wolfsburg (SEA:ME)** — Focused on Embedded C/C++, Mobility Ecosystems, and Autonomous Driving
+- **42 Gyeongsan** — Deep dive into low-level programming, Linux, and kernel architecture
+- **ROK Army, 3rd Infantry Division** — DMZ **TOD (Thermal Observation Device) Operator**
+- **42 Asia Hackathon** — Architected an AI Agent system (PaddleOCR, Docker), learned the power of peer learning
+- **Project Manager** — Led content strategy for Samsunghyeon History & Culture Museum
+
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
 
-| Systems & Core | Cloud & Security | Blockchain & Web | Languages |
-|----------------|------------------|------------------|-----------|
-| C/C++ | AWS Cloud | Solidity | 🇫🇷 French (Beginner) |
-| Linux | Network Security | React | 🇺🇸 English (Intermediate) |
-| Virtual Machines | Dreamhack Platform | JavaScript/CSS | 🇰🇷 Korean (Native) |
-| OS & Architecture | Cybersecurity | Node.js | |
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 
 </div>
 
-```javascript
-const currentFocus = {
-    interests: ['Cloud Computing', 'Cybersecurity', 'Blockchain'],
-    mastering: ['C/C++', 'Linux', 'Computer Architecture', 'Networks'],
-    learning: ['AWS', 'Solidity', 'React', 'Django', 'Flask'],
-    studying: ['Security via Dreamhack', 'French Language'],
-    goal: 'Building secure, scalable systems in the cloud era'
-}
-```
-
 ---
 
-## 📊 Development Activity
+## 🤝 Connect
 
-### Recent Commits
-```
-⚡ Recent Activity 
-• 🔧 Simplify workflow for better compatibility
-• 🔧 Fix markdown rendering issue  
-• 📝 Transform profile into blog-style homepage
-• 🚀 Setup awesome GitHub profile with automation
-• ✨ Initial commit: Awesome profile setup
-```
-
-### Weekly Stats
-<details>
-<summary>📈 This Week's Progress</summary>
-
-```
-⏱️  개발 시간: 32시간 15분
-📝  커밋: 24개  
-🌟  별표: 3개
-🔥  연속 일수: 7일
-```
-
-</details>
-
----
-
-## 🎯 Current Projects
-
-### 🚀 Active
-
-<table>
-<tr>
-<td width="50%">
-
-**AWS Cloud Lab**
-> Infrastructure automation and cloud security exploration
-
-- **Tech**: AWS, Linux, Bash
-- **Status**: Experimenting ⚡
-- **Focus**: IAM, VPC, EC2 Security
-
-[→ Repository](#)
-
-</td>
-<td width="50%">
-
-**Dreamhack CTF Journey**
-> Hands-on cybersecurity challenge solving
-
-- **Tech**: C, Python, Linux
-- **Status**: Active Learning 🔥
-- **Focus**: Web/Pwn/Reversing
-
-[→ Progress Log](#)
-
-</td>
-</tr>
-</table>
-
-### 📋 Planning
-
-- **Blockchain DApp**: Building first Solidity smart contract
-- **Network Security Tool**: C++ based network analyzer
-- **React Security Dashboard**: Frontend for security monitoring
-- **French Learning App**: Personal language learning tracker
-
----
-
-## 💭 Development Philosophy
-
-> *"Security is not a product, but a process. Privacy is not a luxury, but a necessity."*
-
-### Core Principles
-
-- **Security First**: Always consider security implications from the design phase
-- **Systems Thinking**: Understanding how components interact in complex systems
-- **Continuous Learning**: Technology evolves rapidly, stay curious and adaptable
-- **Community Driven**: Contributing to open source and learning from others
-
----
-
-## 📚 Learning Journey
-
-### 2025 Goals
-```
-□ AWS Solutions Architect Certification
-□ Advanced C++ System Programming
-□ Complete 100+ Dreamhack Challenges
-□ Build Production-Ready Blockchain DApp
-□ French Conversational Level (A2)
-```
-
-### Knowledge Base
-<details>
-<summary>🧠 Study Notes & Resources</summary>
-
-#### Cloud & Infrastructure
-- [AWS Cloud Practitioner Journey](https://github.com/hyunahn1/aws-cloud-study)
-- [Linux System Administration](https://github.com/hyunahn1/linux-mastery)
-- [Virtual Machine Labs](https://github.com/hyunahn1/vm-playground)
-
-#### Security & Networks  
-- [Dreamhack CTF Solutions](https://github.com/hyunahn1/dreamhack-ctf)
-- [Network Security Fundamentals](https://github.com/hyunahn1/network-security)
-- [Cybersecurity Study Notes](https://github.com/hyunahn1/security-notes)
-
-#### Blockchain Development
-- [Solidity Smart Contracts](https://github.com/hyunahn1/solidity-practice)
-- [Blockchain Fundamentals](https://github.com/hyunahn1/blockchain-study)
-- [DeFi Protocols Analysis](https://github.com/hyunahn1/defi-research)
-
-#### System Programming
-- [C/C++ Advanced Concepts](https://github.com/hyunahn1/cpp-advanced)
-- [Operating System Projects](https://github.com/hyunahn1/os-projects)
-- [Computer Architecture Labs](https://github.com/hyunahn1/computer-architecture)
-
-#### Web Development
-- [React Frontend Projects](https://github.com/hyunahn1/react-projects)
-- [Node.js Backend APIs](https://github.com/hyunahn1/nodejs-apis)
-- [Full-Stack Web Apps](https://github.com/hyunahn1/fullstack-projects)
-
-</details>
-
----
-
-## 🤝 Let's Connect
-
-```bash
-$ whoami
-> Cloud Security enthusiast exploring the intersection of systems and blockchain
-
-$ cat interests.txt
-> aws cloud security, blockchain development, system programming
-> currently solving CTF challenges and building secure applications
-
-$ echo "Always excited to discuss cybersecurity and emerging tech!"
-```
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=hyunahn1&color=lightgray&style=flat&label=visitors)
-
-<sub>Last updated: 2025.01 • Built with ❤️ and lots of ☕</sub>
-
-</div> 
+- **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/hyunjun-ahn-35659b305/)
+- **Email:** [ahnhj99999@gmail.com]
+- **Blog:** [velog.io/@hyunahn1/posts](https://velog.io/@hyunahn1/posts)
