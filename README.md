@@ -69,6 +69,12 @@
 
 ## 🤝 Connect
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=hyunahn1&color=lightgray&style=flat&label=visitors)
+
+</div>
+
 - **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/hyunjun-ahn-35659b305/)
 - **Email:** [ahnhj99999@gmail.com]
 - **Blog:** [velog.io/@hyunahn1/posts](https://velog.io/@hyunahn1/posts)
