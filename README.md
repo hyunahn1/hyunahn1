@@ -60,8 +60,9 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=hyunahn1&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunahn1&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hyunahn1&theme=default)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunahn1&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
