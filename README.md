@@ -48,11 +48,13 @@
 
 ## 🧭 My Journey
 
-- **42 Wolfsburg (SEA:ME)** — Focused on Embedded C/C++, Mobility Ecosystems, and Autonomous Driving
-- **42 Gyeongsan** — Deep dive into low-level programming, Linux, and kernel architecture
-- **ROK Army, 3rd Infantry Division** — DMZ **TOD (Thermal Observation Device) Operator**
-- **42 Asia Hackathon** — Architected an AI Agent system (PaddleOCR, Docker), learned the power of peer learning
-- **Project Manager** — Led content strategy for Samsunghyeon History & Culture Museum
+| Organization | Focus |
+|-------------|-------|
+| **42 Wolfsburg (SEA:ME)** | Embedded C/C++, Mobility Ecosystems, Autonomous Driving |
+| **42 Gyeongsan** | Low-level programming, Linux, Kernel architecture |
+| **42 Asia Hackathon** | AI Agent system architecture (PaddleOCR, Docker) |
+| **ROK Army, 3rd Infantry Division** | DMZ TOD (Thermal Observation Device) operations |
+| **Samsunghyeon History & Culture Museum** | Content strategy & museum operations |
 
 ---
 
@@ -60,9 +62,21 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hyunahn1&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyunahn1&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunahn1&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hyunahn1&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hyunahn1&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hyunahn1&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hyunahn1&theme=github_dark)
+
+</div>
+
+<div align="center">
+
+### 3D Contribution Graph
+
+![](https://raw.githubusercontent.com/hyunahn1/hyunahn1/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
